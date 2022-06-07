@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 # 🪐About Me :
-🙋‍♂️ My name is Alireza Shirmohammad
-👨‍💻 Back-End (Django) developer
-💻 Interested in AI and micropython 
+- 🙋‍♂️ My name is Alireza Shirmohammad
+- 👨‍💻 Back-End (Django) developer
+- 💻 Interested in AI and micropython 
 
 ## Social media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__alireza.shirmohammad__) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlirezaShirmoh5) 
